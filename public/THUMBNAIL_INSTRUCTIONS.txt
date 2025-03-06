@@ -1,0 +1,1 @@
+You'll need to add your actual thumbnail.png file to the public directory. Make sure it's 600x740 pixels.

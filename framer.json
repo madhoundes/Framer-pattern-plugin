@@ -1,0 +1,10 @@
+{
+  "id": "2feb9a",
+  "name": "Framer Grid Pattern",
+  "modes": [
+    "canvas"
+  ],
+  "icon": "icon.svg",
+  "thumbnail": "thumbnail.svg",
+  "additionalThumbnail": "additional-thumbnail.svg"
+}
