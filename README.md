@@ -2,6 +2,10 @@
 
 A Framer plugin that generates beautiful, customizable grid patterns for your designs.
 
+## Plugin Overview
+
+https://github.com/madhoundes/Framer-pattern-plugin/assets/media/plugin-overview.mp4
+
 ## Features
 
 - Two pattern types: Grid and Dots (halftone)
