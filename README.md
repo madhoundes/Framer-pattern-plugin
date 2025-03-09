@@ -6,7 +6,7 @@ A Framer plugin that generates beautiful, customizable grid patterns for your de
 
 <img src="media/cover03.png" alt="Grid Pattern Generator" width="800"/>
 
-<a href="media/plugin-overview.mp4" download>▶️ Download Video Tutorial</a>
+<a href="[youtube](https://youtu.be/WgzZlP6lmEE)" Youtube>▶️ Download Video Tutorial</a>
 
 ## Features
 
