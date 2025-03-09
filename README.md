@@ -4,7 +4,9 @@ A Framer plugin that generates beautiful, customizable grid patterns for your de
 
 ## Plugin Overview
 
-![Plugin Overview Video](https://github.com/madhoundes/Framer-pattern-plugin/raw/main/media/plugin-overview.mp4)
+![Grid Pattern Generator](https://github.com/madhoundes/Framer-pattern-plugin/raw/main/media/cover03.png)
+
+[▶️ Download Video Tutorial](https://github.com/madhoundes/Framer-pattern-plugin/raw/main/media/plugin-overview.mp4)
 
 ## Features
 
