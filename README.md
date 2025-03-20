@@ -1,5 +1,10 @@
 # Framer Grid Pattern Plugin
 
+
+<img 
+  src="https://raw.githubusercontent.com/madhoundes/Framer-pattern-plugin/main/cover.jpg" 
+  alt="Framer Grid Pattern Demo Animation"
+  width="800"/>
 <img 
   src="https://raw.githubusercontent.com/madhoundes/Framer-pattern-plugin/main/demo.gif" 
   alt="Framer Grid Pattern Demo Animation"
