@@ -4,17 +4,31 @@ Create beautiful grid patterns with customizable properties for your Framer desi
 
 ## For Framer Support Team
 
-Hello Framer team! This repository contains the latest version of my Grid Pattern plugin for Framer. The main build is available in two places:
+Hello Framer team! This repository contains the clean version of my Grid Pattern plugin for Framer submission. 
 
-1. **Prebuilt Zip File**: For quick testing, please use the [`latest-plugin-build.zip`](./latest-plugin-build.zip) file in the root of this repository.
+### Important Files for Review
 
-2. **Individual Files**: All the necessary files for the plugin are also available in the root directory:
-   - `framer.json` - Plugin configuration 
-   - `index.html` - Main HTML file
-   - `index-D01ThxbG.mjs` - Compiled JavaScript 
-   - `assets/` - Directory containing SVG icons and CSS
+1. **Ready-to-Use Plugin Package**: [`latest-plugin-build.zip`](./latest-plugin-build.zip) - This zip file contains all properly structured files ready for installation
 
-The plugin structure follows the recommended format with SVG files in the assets folder and paths properly specified in the framer.json file.
+2. **Individual Source Files**:
+   - `framer.json` - Configuration with proper asset paths
+   - `index.html` - Main entry point
+   - `index-D01ThxbG.mjs` - Compiled JavaScript module
+   - `assets/` - Directory with SVG icons and CSS
+
+### Installation Instructions for Testing
+
+1. Download the [`latest-plugin-build.zip`](./latest-plugin-build.zip) file
+2. In Framer, navigate to Plugins → Open Development Plugin
+3. Select the downloaded zip file
+4. The plugin should open in Framer for testing
+
+### Notes on Structure
+
+The plugin follows the recommended structure with:
+- SVG files placed in the `assets/` folder
+- Proper references in `framer.json`
+- 6-character plugin ID: `2feb9a`
 
 ## Features
 
@@ -23,35 +37,12 @@ The plugin structure follows the recommended format with SVG files in the assets
 - Apply to any frame in your Framer project
 - Easy to use interface with live preview
 
-## Installation for Testing
+## Contact
 
-1. Download the `latest-plugin-build.zip` file
-2. In Framer, go to Plugins → Open Development Plugin
-3. Select the downloaded zip file
-4. The plugin should open and be available for testing
-
-## Structure of the Plugin
-
-```
-/
-├── assets/
-│   ├── icon.svg
-│   ├── thumbnail.svg
-│   ├── additional-thumbnail.svg
-│   └── index-CMXfdQ6S.css
-├── index.html
-├── index-D01ThxbG.mjs
-├── api-helper.js
-├── framer.json
-└── README.md
-```
-
-## Support
-
-For any questions or assistance with reviewing this plugin, please contact:
+If you have any questions during the review process:
 - Email: madhoundes@gmail.com
 
-Thank you for reviewing my plugin!
+Thank you for reviewing my plugin submission!
 
 ## License
 
