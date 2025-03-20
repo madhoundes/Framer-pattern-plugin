@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" aria-labelledby="iconTitle" role="img">
+  <title id="iconTitle">Grid Pattern Generator Icon</title>
+  <!-- Background with rounded corners -->
+  <rect width="32" height="32" rx="8" fill="#2A2A2A"/>
+  
+  <!-- Decorative gradient background -->
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3A3A3A" />
+      <stop offset="100%" stop-color="#222222" />
+    </linearGradient>
+  </defs>
+  <rect width="32" height="32" rx="8" fill="url(#bgGradient)"/>
+  
+  <!-- Grid pattern with dots -->
+  <g transform="translate(4, 4)">
+    <!-- Grid lines -->
+    <path d="M0 0 L0 24 M8 0 L8 24 M16 0 L16 24 M24 0 L24 24 M0 0 L24 0 M0 8 L24 8 M0 16 L24 16 M0 24 L24 24" 
+          stroke="#666" stroke-width="0.5" stroke-opacity="0.6"/>
+    
+    <!-- Dots at intersections -->
+    <circle cx="0" cy="0" r="1.5" fill="#6EB5FF"/>
+    <circle cx="8" cy="0" r="1.5" fill="#6EB5FF"/>
+    <circle cx="16" cy="0" r="1.5" fill="#6EB5FF"/>
+    <circle cx="24" cy="0" r="1.5" fill="#6EB5FF"/>
+    
+    <circle cx="0" cy="8" r="1.5" fill="#6EB5FF"/>
+    <circle cx="8" cy="8" r="2.2" fill="#6EB5FF"/>
+    <circle cx="16" cy="8" r="1.5" fill="#6EB5FF"/>
+    <circle cx="24" cy="8" r="1.5" fill="#6EB5FF"/>
+    
+    <circle cx="0" cy="16" r="1.5" fill="#6EB5FF"/>
+    <circle cx="8" cy="16" r="1.5" fill="#6EB5FF"/>
+    <circle cx="16" cy="16" r="2.2" fill="#6EB5FF"/>
+    <circle cx="24" cy="16" r="1.5" fill="#6EB5FF"/>
+    
+    <circle cx="0" cy="24" r="1.5" fill="#6EB5FF"/>
+    <circle cx="8" cy="24" r="1.5" fill="#6EB5FF"/>
+    <circle cx="16" cy="24" r="1.5" fill="#6EB5FF"/>
+    <circle cx="24" cy="24" r="2.2" fill="#6EB5FF"/>
+  </g>
+  
+  <!-- Subtle highlight -->
+  <rect x="1" y="1" width="30" height="1" rx="0.5" fill="white" opacity="0.1"/>
+</svg>

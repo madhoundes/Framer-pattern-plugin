@@ -1,0 +1,23 @@
+{
+  "id": "2feb9a",
+  "name": "Framer Grid Pattern",
+  "displayName": "Framer Grid Pattern",
+  "description": "Create beautiful grid patterns with customizable properties for your Framer designs.",
+  "author": {
+    "name": "Ahmed Almadhoun",
+    "email": "madhoundes@gmail.com",
+    "url": "https://www.framer.com/@ahmed-almadhoun/"
+  },
+  "modes": [
+    "canvas"
+  ],
+  "main": "index-D01ThxbG.mjs",
+  "preview": "index.html",
+  "icon": "assets/icon.svg",
+  "thumbnail": "assets/thumbnail.svg",
+  "additionalThumbnail": "assets/additional-thumbnail.svg",
+  "version": "1.0.0",
+  "pluginType": "ui",
+  "type": "plugin",
+  "license": "MIT"
+} 
