@@ -2,7 +2,7 @@
 
 
 <img 
-  src="https://raw.githubusercontent.com/madhoundes/Framer-pattern-plugin/main/cover.jpg" 
+  src="https://raw.githubusercontent.com/madhoundes/Framer-pattern-plugin/main/Cover.jpg" 
   alt="Framer Grid Pattern Demo Animation"
   width="800"/>
 <img 
