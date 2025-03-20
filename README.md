@@ -1,5 +1,13 @@
 # Framer Grid Pattern Plugin
 
+<img 
+  src="https://raw.githubusercontent.com/madhoundes/Framer-pattern-plugin/main/demo.gif" 
+  alt="Framer Grid Pattern Demo Animation"
+  width="600"
+  loading="lazy"
+  class="demo-animation"
+>
+
 Create beautiful grid patterns with customizable properties for your Framer designs.
 
 ## For Framer Support Team
